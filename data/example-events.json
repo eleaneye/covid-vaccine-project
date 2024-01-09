@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "symptom": "ABDOMINAL DISTENSION",
+            "vaers_id": "1023948-1",
+            "age": "60-64",
+            "vaccine": "COVID19 (MODERNA)",
+            "sex": "F",
+            "description": "2 days after vaccine--Resident stated that she didn't feel good (She is developmentally delayed and less able to communicate how she feels than those in the community) and stopped eating most foods; also had fatigue. Vitals, coloring, & behavior were normal. 02/09/21--Belly was firm and mildly distended (although she stated it didn't hurt); she coded this evening and CPR was performed before EMT could transport her to the hospital. 02 / 10 / 21--Resident passed."
+        },
+        {
+            "symptom": "AMNESIA",
+            "vaers_id": "1005704-1",
+            "age": "65+",
+            "vaccine": "COVID19 (MODERNA)",
+            "sex": "F",
+            "description": "Pt's son called and reported that pt had COVID vaccine on 1-25-21 and was taken to the hospital via EMS due to confusion and memory loss. Pt's son states that pt was diagnosed with 'TIA' and stayed in the hospital x 3 days. Pt states that the physicians at facility was not sure if TIA was related to vaccine but encouraged him to report adverse event. Pt's son states that pt has short term memory loss and has since moved in with him after this event happened."
+        },
+        {
+            "symptom": "AMNESIA",
+            "vaers_id": "1005704-1",
+            "age": "65+",
+            "vaccine": "COVID19 (MODERNA)",
+            "sex": "F",
+            "description": "Pt's son called and reported that pt had COVID vaccine on 1-25-21 and was taken to the hospital via EMS due to confusion and memory loss. Pt's son states that pt was diagnosed with 'TIA' and stayed in the hospital x 3 days. Pt states that the physicians at facility was not sure if TIA was related to vaccine but encouraged him to report adverse event. Pt's son states that pt has short term memory loss and has since moved in with him after this event happened."
+        }
+    ]
+}

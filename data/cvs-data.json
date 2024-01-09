@@ -1,0 +1,205 @@
+{
+    "responseMetaData": {
+        "statusCode": "0000",
+        "statusDesc": "Success",
+        "conversationID": "Id-a78f6c605056a25fa0bec407",
+        "refId": "Id-a78f6c605056a25fa0bec407"
+    },
+    "responsePayloadData": {
+        "schedulerRefType": "IMZ_STORE",
+        "availableDates": [
+            "2021-04-07",
+            "2021-04-08",
+            "2021-04-09",
+            "2021-04-10"
+        ],
+        "locations": [
+            {
+                "StoreNumber": "04290",
+                "minuteClinicID": "864",
+                "opticalClinicID": "0",
+                "storeType": 0,
+                "covaxInd": "Y",
+                "minuteClinicName": "Inside CVS Pharmacy",
+                "pharmacyNCPDPProviderIdentifier": "3416636",
+                "addressLine": "5311 ROXBORO RD.",
+                "addressCityDescriptionText": "DURHAM",
+                "addressState": "NC",
+                "addressZipCode": "27712",
+                "addressCountry": "US",
+                "geographicLatitudePoint": "36.078100",
+                "geographicLongitudePoint": "-78.911100",
+                "indicatorStoreTwentyFourHoursOpen": "N",
+                "indicatorPrescriptionService": "Y",
+                "indicatorPhotoCenterService": "Y",
+                "indicatorMinuteClinicService": "Y",
+                "indicatorOpticalService": "N",
+                "instorePickupService": "Y",
+                "indicatorDriveThruService": "Y",
+                "indicatorPharmacyTwentyFourHoursOpen": "N",
+                "rxConvertedFlag": "Y",
+                "indicatorCircularConverted": "Y",
+                "indicatorH1N1FluShot": "N",
+                "indicatorRxFluFlag": "N",
+                "indicatorWicService": "N",
+                "snapIndicator": "Y",
+                "indicatorVaccineServiceSupport": "N",
+                "indicatorPneumoniaShotService": "N",
+                "indicatorWeeklyAd": "Y",
+                "indicatorCVSStore": "Y",
+                "indicatorStorePickup": "N",
+                "storeLocationTimeZone": "EDT",
+                "storePhonenumber": "9194714409",
+                "pharmacyPhonenumber": "9194714409",
+                "storeHours": {
+                    "DayHours": [
+                        {
+                            "Day": "MON",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "TUE",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "WED",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "THU",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "FRI",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "SAT",
+                            "Hours": "08:00 AM - 10:00 PM"
+                        },
+                        {
+                            "Day": "SUN",
+                            "Hours": "09:00 AM - 07:00 PM"
+                        }
+                    ]
+                },
+                "minuteClinicNpBreakHours": {
+                    "DayHours": [
+                        {
+                            "Day": "MON",
+                            "Hours": "1:30 PM - 2:29 PM"
+                        },
+                        {
+                            "Day": "TUE",
+                            "Hours": "1:30 PM - 2:29 PM"
+                        },
+                        {
+                            "Day": "WED",
+                            "Hours": "1:30 PM - 2:29 PM"
+                        },
+                        {
+                            "Day": "THU",
+                            "Hours": "1:30 PM - 2:29 PM"
+                        },
+                        {
+                            "Day": "FRI",
+                            "Hours": "1:30 PM - 2:29 PM"
+                        },
+                        {
+                            "Day": "SAT",
+                            "Hours": "1:00 PM - 1:30 PM"
+                        },
+                        {
+                            "Day": "SUN",
+                            "Hours": "1:00 PM - 1:30 PM"
+                        }
+                    ]
+                },
+                "pharmacyHours": {
+                    "DayHours": [
+                        {
+                            "Day": "MON",
+                            "Hours": "08:00 AM - 09:00 PM"
+                        },
+                        {
+                            "Day": "TUE",
+                            "Hours": "08:00 AM - 09:00 PM"
+                        },
+                        {
+                            "Day": "WED",
+                            "Hours": "08:00 AM - 09:00 PM"
+                        },
+                        {
+                            "Day": "THU",
+                            "Hours": "08:00 AM - 09:00 PM"
+                        },
+                        {
+                            "Day": "FRI",
+                            "Hours": "08:00 AM - 09:00 PM"
+                        },
+                        {
+                            "Day": "SAT",
+                            "Hours": "09:00 AM - 06:00 PM"
+                        },
+                        {
+                            "Day": "SUN",
+                            "Hours": "10:00 AM - 06:00 PM"
+                        }
+                    ]
+                },
+                "minuteClinicHours": {
+                    "DayHours": [
+                        {
+                            "Day": "MON",
+                            "Hours": "8:30 AM - 6:30 PM"
+                        },
+                        {
+                            "Day": "TUE",
+                            "Hours": "8:30 AM - 6:30 PM"
+                        },
+                        {
+                            "Day": "WED",
+                            "Hours": "8:30 AM - 6:30 PM"
+                        },
+                        {
+                            "Day": "THU",
+                            "Hours": "8:30 AM - 6:30 PM"
+                        },
+                        {
+                            "Day": "FRI",
+                            "Hours": "8:30 AM - 6:30 PM"
+                        },
+                        {
+                            "Day": "SAT",
+                            "Hours": "9:00 AM - 5:30 PM"
+                        },
+                        {
+                            "Day": "SUN",
+                            "Hours": "9:00 AM - 4:30 PM"
+                        }
+                    ]
+                },
+                "adVersionCdCurrent": "H",
+                "adVersionCdNext": "H",
+                "distance": "5.76",
+                "immunizationAvailability": {
+                    "available": [
+                        "CVD"
+                    ],
+                    "unavailable": []
+                },
+                "schedulerRefId": "CVS_04290",
+                "imzAdditionalData": [
+                    {
+                        "imzType": "CVD",
+                        "availableDates": [
+                            "2021-04-10"
+                        ]
+                    }
+                ],
+                "mfrName": "Pfizer",
+                "additionalDoseRequired": "Y"
+            }
+        ]
+    }
+}

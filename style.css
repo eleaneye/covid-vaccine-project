@@ -1,0 +1,13 @@
+header * {
+    display: inline;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-items: flex-start;
+}
+
+header li {
+    margin: 20px;
+}

@@ -1,0 +1,20 @@
+1. deploy server to heroku:
+
+git add final_project/vaccine_server
+git commit -m "Prepared server for deployment to Heroku"
+git subtree push --prefix final_project/vaccine_server heroku master
+
+2. git add . all changes in root directory
+
+git commit -m 'note'
+git push 
+
+
+3. build public front end: (in final_project/vaccine_ui)
+
+npm run build
+git add dist
+git commit -m "Built standard JavaScript version for browsers"
+git push origin master
+
+npm run test:e2e -- --mode development

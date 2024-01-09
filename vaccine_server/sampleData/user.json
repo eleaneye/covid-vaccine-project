@@ -1,0 +1,4087 @@
+[
+    {
+        "c": [
+            {
+                "l": [
+                    "ABDOMINAL PAIN"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ACUTE KIDNEY INJURY"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ACUTE KIDNEY INJURY"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ACUTE RESPIRATORY DISTRESS SYNDROME"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ACUTE RESPIRATORY FAILURE"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ANGIOGRAM PULMONARY NORMAL"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "APNOEIC ATTACK"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ARRHYTHMIA"
+                ]
+            },
+            {
+                "l": [
+                    "0998637-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient noted to have irregular breathing in bed and unable to arouse. Provided life saving measures in the field x 30 minutes and transferred to hospital. Noted to have heart arrhythmia which suspected to cause cardiac arrest."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ASTHENIA"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ASTHENIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BILEVEL POSITIVE AIRWAY PRESSURE"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD CREATINE"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD CREATINE PHOSPHOKINASE INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD CREATININE INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD GLUCOSE DECREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD PH DECREASED"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD POTASSIUM NORMAL"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "BLOOD UREA INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CARDIAC ARREST"
+                ]
+            },
+            {
+                "l": [
+                    "0998637-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient noted to have irregular breathing in bed and unable to arouse. Provided life saving measures in the field x 30 minutes and transferred to hospital. Noted to have heart arrhythmia which suspected to cause cardiac arrest."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CARDIAC ARREST"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CARDIAC DISORDER"
+                ]
+            },
+            {
+                "l": [
+                    "1065435-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "blood clot; death cause: Heart Problems; tired; nauseous; This is a spontaneous report from a contactable consumer.   An 81-year-old female patient received the first dose of BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE) (Lot number EL3248), via an unspecified route of administration at single dose in the left arm on 19Jan2021 14:00 for covid-19 immunisation. Medical history included heart problems, pacemaker. Concomitant medication included heparin.  The patient experienced death cause: heart problems on 20Jan2021, blood clot  on an unspecified date with outcome of unknown that required hospitalization, tired on 19Jan2021 with outcome of unknown, nauseous on 19Jan2021 with outcome of unknown. The patient was hospitalized for blood clot from 16Jan2021 to 18Jan2021. The patient died on 20Jan2021. An autopsy was not performed. The events were described as follows: The patient was tired and nauseous about 3 hours after her vaccine. She had been in the hospital 16Jan2021 to 18Jan2021 for a blood clot. The patient died at her home on 20Jan2021 between 4 and 7 pm. No treatment required. The vaccine was administered at Hospital Facility. Prior to vaccination, the patient was not diagnosed with COVID-19 and since the vaccination, the patient had not been tested for COVID-19.; Reported Cause(s) of Death: death cause: Heart Problems"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CARDIAC FAILURE ACUTE"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CARDIAC FAILURE CONGESTIVE"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CEREBROVASCULAR ACCIDENT"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CEREBROVASCULAR ACCIDENT"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CHEST DISCOMFORT"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CHEST X-RAY ABNORMAL"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CHEST X-RAY ABNORMAL"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COMPUTERISED TOMOGRAM"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COMPUTERISED TOMOGRAM HEAD NORMAL"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CONDITION AGGRAVATED"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COUGH"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COVID-19"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COVID-19"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COVID-19"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COVID-19"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "COVID-19 PNEUMONIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CSF GLUCOSE INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CSF PROTEIN INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "CYTOKINE RELEASE SYNDROME"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "1065543-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "It was reported to staff that this gentleman suffered thrombocytopenia following his vaccine, a platelet infusion was done and he expired on 2-14-21"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEATH"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DECREASED APPETITE"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DECREASED APPETITE"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DEHYDRATION"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "DYSPNOEA"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ECHOCARDIOGRAM"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "FALL"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "FATIGUE"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "FATIGUE"
+                ]
+            },
+            {
+                "l": [
+                    "1065435-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "blood clot; death cause: Heart Problems; tired; nauseous; This is a spontaneous report from a contactable consumer.   An 81-year-old female patient received the first dose of BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE) (Lot number EL3248), via an unspecified route of administration at single dose in the left arm on 19Jan2021 14:00 for covid-19 immunisation. Medical history included heart problems, pacemaker. Concomitant medication included heparin.  The patient experienced death cause: heart problems on 20Jan2021, blood clot  on an unspecified date with outcome of unknown that required hospitalization, tired on 19Jan2021 with outcome of unknown, nauseous on 19Jan2021 with outcome of unknown. The patient was hospitalized for blood clot from 16Jan2021 to 18Jan2021. The patient died on 20Jan2021. An autopsy was not performed. The events were described as follows: The patient was tired and nauseous about 3 hours after her vaccine. She had been in the hospital 16Jan2021 to 18Jan2021 for a blood clot. The patient died at her home on 20Jan2021 between 4 and 7 pm. No treatment required. The vaccine was administered at Hospital Facility. Prior to vaccination, the patient was not diagnosed with COVID-19 and since the vaccination, the patient had not been tested for COVID-19.; Reported Cause(s) of Death: death cause: Heart Problems"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "FIBRIN D DIMER INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "GLOMERULAR FILTRATION RATE DECREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "HEAD INJURY"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "HYPOGLYCAEMIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "HYPONATRAEMIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "HYPOPHAGIA"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "HYPOXIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "INFUSION"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "INTERNATIONAL NORMALISED RATIO INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "IRREGULAR BREATHING"
+                ]
+            },
+            {
+                "l": [
+                    "0998637-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient noted to have irregular breathing in bed and unable to arouse. Provided life saving measures in the field x 30 minutes and transferred to hospital. Noted to have heart arrhythmia which suspected to cause cardiac arrest."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "ISCHAEMIC HEPATITIS"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "LABORATORY TEST"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "LIFE SUPPORT"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "LUNG OPACITY"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "MAGNETIC RESONANCE IMAGING"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "N-TERMINAL PROHORMONE BRAIN NATRIURETIC PEPTIDE INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "NAUSEA"
+                ]
+            },
+            {
+                "l": [
+                    "1065435-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "blood clot; death cause: Heart Problems; tired; nauseous; This is a spontaneous report from a contactable consumer.   An 81-year-old female patient received the first dose of BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE) (Lot number EL3248), via an unspecified route of administration at single dose in the left arm on 19Jan2021 14:00 for covid-19 immunisation. Medical history included heart problems, pacemaker. Concomitant medication included heparin.  The patient experienced death cause: heart problems on 20Jan2021, blood clot  on an unspecified date with outcome of unknown that required hospitalization, tired on 19Jan2021 with outcome of unknown, nauseous on 19Jan2021 with outcome of unknown. The patient was hospitalized for blood clot from 16Jan2021 to 18Jan2021. The patient died on 20Jan2021. An autopsy was not performed. The events were described as follows: The patient was tired and nauseous about 3 hours after her vaccine. She had been in the hospital 16Jan2021 to 18Jan2021 for a blood clot. The patient died at her home on 20Jan2021 between 4 and 7 pm. No treatment required. The vaccine was administered at Hospital Facility. Prior to vaccination, the patient was not diagnosed with COVID-19 and since the vaccination, the patient had not been tested for COVID-19.; Reported Cause(s) of Death: death cause: Heart Problems"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "NEUROLOGICAL SYMPTOM"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "PLATELET TRANSFUSION"
+                ]
+            },
+            {
+                "l": [
+                    "1065543-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "It was reported to staff that this gentleman suffered thrombocytopenia following his vaccine, a platelet infusion was done and he expired on 2-14-21"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "PROTEIN TOTAL INCREASED"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "PYREXIA"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "RESPIRATORY DISORDER"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "RESPIRATORY FAILURE"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "RESPIRATORY FAILURE"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "RESUSCITATION"
+                ]
+            },
+            {
+                "l": [
+                    "0998637-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient noted to have irregular breathing in bed and unable to arouse. Provided life saving measures in the field x 30 minutes and transferred to hospital. Noted to have heart arrhythmia which suspected to cause cardiac arrest."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 ANTIBODY TEST NEGATIVE"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 ANTIBODY TEST NEGATIVE"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST NEGATIVE"
+                ]
+            },
+            {
+                "l": [
+                    "0983766-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt started complaining of chest heaviness and shortness of breath on the afternoon of 1/21/21. EMS was called to the patients home and she was found to have an O2 sat in the 70's. She was admitted to hospital and found to have a proBNP of 5000.  She tested negative for Covid-19. She was determined to be in acute-on-chronic heart failure and was referred for hospice care. She passed away on the evening of 1/24/21."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST NEGATIVE"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST POSITIVE"
+                ]
+            },
+            {
+                "l": [
+                    "0970930-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Pt developed COVID-19 infection, symptoms starting 7 days after first dose was given.  Patient was admitted to hospital on 1/21 after falling (secondary to weakness) and striking head on toilet. Patient expired due to respiratory complications of COVID on 1/25."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST POSITIVE"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST POSITIVE"
+                ]
+            },
+            {
+                "l": [
+                    "1042145-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient reported feeling weak, fatigue, fever (102), and loss of appetite. Patient subsequently went to the ER 2/6/2021 and tested positive for COVID-19 on 2/7/21 (collection date).   See following discharge summary from ED:  82 y.o. female who initially presented to the ED with complaint of generalized weakness, fatigue, fever, and loss of appetite x at least 4 days since receiving Covid 19 vaccine. Her workup in the emergency room was significant for hypoxia with 02 saturation 88% on 2LPM (home nocturnal 02 requirement) with improvement to mid-90s on 4LPM. Blood sugar was 47, Cr 1.61. CXR showed extensive R lung and moderate left lung opacities. She was started on empiric ceftriaxone and azithromycin and admitted to the hospitalist service for further workup and mgmt.   During her stay in the hospital, pt did test positive for Covid 19. She developed rapidly progressive respiratory failure, felt to be secondary to ARDS. There was also question of contributing pulmonary edema, however this was refractory to lasix and thus ARDS was felt to be the most significant factor. She had requested DNR/DNI status, thus as her 02 requirement escalated she was transitioned to 15LPM NRB and then to BiPAP support. Unfortunately, she continued to suffer greatly with the BiPAP in place, and therefore made the decision to transition herself to comfort measures only after visitation from her family.   Her other medical issues were supported as appropriate during her stay, with dextrose infusion for hypoglycemia and AKI, also hyponatremia felt to be due to IVVF.   Unfortunately, am unable to find any documentation regarding how pt was feeling when she received the vaccine compared to her baseline state of health. thus am unable to say whether the severity of her illness represents vaccine� enhanced disease or the much more common cytokine release syndrome leading to ARDS. Regardless, she developed ARDS as result of her Covid 19 illness.    Time of death: 1408 on 2/9/21. Cause of death: ARDS due to Covid 19 pneumonia."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SARS-COV-2 TEST POSITIVE"
+                ]
+            },
+            {
+                "l": [
+                    "1111389-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Cough started on 3/5.  Hospitalization on 3/7,  Expired 3/16.  Doctor's Death Diagnosis: acute on chronic respiratory failure."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SEIZURE"
+                ]
+            },
+            {
+                "l": [
+                    "0987301-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "My Mother was given the Covid Vaccine (1st Dose) on 12/28/2020. Later that night we received a call from the nursing facility that my Mother was having uncontrollable seizures and had to be transported to the nearby hospital. The ER doctor confirmed that my Mother had tested positive to Covid. She was treated for Covid and was on life support. A few days later we received a call that my Mother had a  major stroke. She passed away on January 4, 2021"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SHOCK"
+                ]
+            },
+            {
+                "l": [
+                    "1076188-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Out of hospital cardiac arrest and refractory shock, acute kidney injury, shock liver, respiratory failure leading to death"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "SOMNOLENCE"
+                ]
+            },
+            {
+                "l": [
+                    "0998637-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient noted to have irregular breathing in bed and unable to arouse. Provided life saving measures in the field x 30 minutes and transferred to hospital. Noted to have heart arrhythmia which suspected to cause cardiac arrest."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "TENDERNESS"
+                ]
+            },
+            {
+                "l": [
+                    "1054966-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Mentation has declined since hospital discharger for fall on 2/6/20201. Patient has also had significant poor oral intake. Brought in due to apneic episodes.  Abdominal pain - diffuse tenderness (right sided) Elevated liver enzymes - likely secondary to dehydration Increased serum creatine kinase - likely due to dehydration"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "THROMBOCYTOPENIA"
+                ]
+            },
+            {
+                "l": [
+                    "1065543-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (MODERNA))"
+                ],
+                "cd": [
+                    "1201"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "It was reported to staff that this gentleman suffered thrombocytopenia following his vaccine, a platelet infusion was done and he expired on 2-14-21"
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "THROMBOSIS"
+                ]
+            },
+            {
+                "l": [
+                    "1035850-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Male"
+                ]
+            },
+            {
+                "tx": [
+                    "Patient woke up on the morning of 2/6 with symptoms of a stroke.  Rushed to hospital where clot found in brain.  Recovered from initial stroke but then had another major stroke on 2/8 and never recovered."
+                ]
+            }
+        ]
+    },
+    {
+        "c": [
+            {
+                "l": [
+                    "THROMBOSIS"
+                ]
+            },
+            {
+                "l": [
+                    "1065435-1"
+                ],
+                "ba": [
+                    "D8.V15"
+                ]
+            },
+            {
+                "l": [
+                    "65+ years"
+                ]
+            },
+            {
+                "l": [
+                    "COVID19 (COVID19 (PFIZER-BIONTECH))"
+                ],
+                "cd": [
+                    "1200"
+                ],
+                "cf": [
+                    "f"
+                ]
+            },
+            {
+                "l": [
+                    "Female"
+                ]
+            },
+            {
+                "tx": [
+                    "blood clot; death cause: Heart Problems; tired; nauseous; This is a spontaneous report from a contactable consumer.   An 81-year-old female patient received the first dose of BNT162B2 (PFIZER-BIONTECH COVID-19 VACCINE) (Lot number EL3248), via an unspecified route of administration at single dose in the left arm on 19Jan2021 14:00 for covid-19 immunisation. Medical history included heart problems, pacemaker. Concomitant medication included heparin.  The patient experienced death cause: heart problems on 20Jan2021, blood clot  on an unspecified date with outcome of unknown that required hospitalization, tired on 19Jan2021 with outcome of unknown, nauseous on 19Jan2021 with outcome of unknown. The patient was hospitalized for blood clot from 16Jan2021 to 18Jan2021. The patient died on 20Jan2021. An autopsy was not performed. The events were described as follows: The patient was tired and nauseous about 3 hours after her vaccine. She had been in the hospital 16Jan2021 to 18Jan2021 for a blood clot. The patient died at her home on 20Jan2021 between 4 and 7 pm. No treatment required. The vaccine was administered at Hospital Facility. Prior to vaccination, the patient was not diagnosed with COVID-19 and since the vaccination, the patient had not been tested for COVID-19.; Reported Cause(s) of Death: death cause: Heart Problems"
+                ]
+            }
+        ]
+    }
+]

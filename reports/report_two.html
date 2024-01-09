@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Eleane Ye">
+    <title>CompSci 290, Spring 2021 : Final Project, Report 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <!-- CSS styling -->
+    <link href="../../style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- main body and content wrapped in container for padding -->
+    <div class="container">
+        <h2>Progress Report 2</h2>
+        <p>Created: 04/14/21</p>
+        <p>Last revised: --</p>
+        <hr />
+        <h5>NOTE: Project idea has pivoted since last progress check.</h5>
+        <div>
+            <h3>Demo</h3>
+            <!-- <video controls>
+                <source src="https://youtu.be/A9pOKBFfnNA" type="video/mp4">
+            </video> -->
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/A9pOKBFfnNA"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            <p>(Link to video file also available on Box <a
+                    href="https://duke.box.com/s/4vx5iini2abyrbzjq93mqrwzs3i66350">here</a>.)</p>
+            <p>Currently, sample JSON data with event data is returned from a remote server. Actual data is currently
+                returned as a XML response from the <a href="http://wonder.cdc.gov/vaers.html">CDC WONDER Vaccine
+                    Adverse Event Reporting System</a>.</p>
+        </div>
+        <div>
+            <h3>Data</h3>
+            <p>Please visit the server deployed <a href="https://cryptic-savannah-96041.herokuapp.com/">here</a> on
+                Heroku to see data source. [Sample JSON data provided as well as work in progress XML -> JSON response]
+            </p>
+            <p>The data structure will be an array of objects, parsed from XML to JSON. The important fields in the data
+                that will be displayed in the front end are 1) Symptom, 2) Type of Vaccine (eg. Pfizer), 3) Age, 4)
+                Gender,
+                and 5) Adverse Event Description and an optional 6) VAERS_ID. These fields will provide a comprehensive
+                overview of the adverse event, the actual array of objects returned and displayed will depend on a few
+                select user query parameters to group or filter by, such as vaccine type, age, gender, and potentially
+                state.
+            </p>
+            <p>
+                Eventually, users will also be able to enter data. This data will be sample vaccine symptoms and fields
+                collected will include symptom, age range, type of vaccine, date vaccine recieved, date of symptom,
+                gender. A disclaimer will be made not to use real or personal data as this is a sample project.
+                (Potentially redirect to the actual CDC VAERS reporting form, which they verify and update db with every
+                Friday.)
+            </p>
+        </div>
+        <div>
+            <h3>Progress</h3>
+            <p>After the last progress check, I continue to work according to the initial plan and attempted to find
+                availability data for a specific vaccine location. However, I was unable to find or access the data.
+                Meeting with Professor Quan during office hours, he suggested I quickly pivot to another feasible
+                idea and brought up another COVID related idea -- getting data from the <a
+                    href="http://wonder.cdc.gov/vaers.html">CDC WONDER Vaccine Adverse Event
+                    Reporting System</a> and also allowing users to report/save their own symptoms.
+            </p>
+            <p>
+                First steps were to ensure that I could access data from this new data source. I spent the bulk of two
+                days reading their (limited) <a
+                    href="https://wonder.cdc.gov/wonder/help/WONDER-API.html#API-Examples">API documentation</a> and
+                learning how to make the request in XML format, testing
+                using Postman and the examples given. Just as I was about to give up and switch to a different idea
+                since the request was not getting a valid
+                response back (even after I emailed the CDC Wonders teams and got a minimally helpful response back :),
+                I had a breakthrough moment where the request worked if sent with urlEncoded
+                parameters! I then spent time writing the XML request (the parameters found by inspecting each element
+                in the form, or by seeing the key/value pairs that were sent with the network call). As of now, I have a
+                front-end working with sample JSON data that I want to get parse/clean the XML response into, and a
+                back-end that returns the correct XML response for set query parameters in my request.xml file.
+            </p>
+            <p>
+                As of now, I have a front-end working with sample JSON data, and a
+                back-end that returns the correct XML response for set query parameters in my <a
+                    href="../vaccine_server/request.xml">request.xml</a> file. Steps
+                that still need to be completed are 1) getting the XML response into JSON, 2) allowing user input in
+                front end and allowing filtering, 3)OAuth and saving user preferences.
+            </p>
+        </div>
+        <div>
+            <h3>Concerns</h3>
+            <p>The main concern right now is getting that XML response into a JSON format that my front-end is
+                expecting. Another related concern is how I can allow users to input parameters (since the request is a
+                static file in my server folder as of now). If this is not possible, I am consider returning all the
+                data from a request that stays the same (data is uploaded every Friday by CDC), and just allowing for
+                search/filter on the front-end.</p>
+        </div>
+        <div>
+            <h3>Learning</h3>
+            <p>I learned what XML is, how to write a XML request, and how to send set request header content type as
+                urlEncoded. A big lesson I learned about web projects in general, or really any project is to think
+                about potential key roadblocks or things you need in order for the project to be successful, and address
+                those first.</p>
+        </div>
+        <div>
+            <h3>Plan</h3>
+            <ul>
+                <li>By Sunday (4/18):
+                    <ul>
+                        <li>Parse XML response into the needed JSON format</li>
+                        <li>Take some time to think about what data to return and how it can be most useful
+                            to users</li>
+                    </ul>
+                </li>
+                <li>By Wednesday (4/21):
+                    <ul>
+                        <li>Create component for each "event" returned</li>
+                        <li>Allow user input/filter functionality, as well as giving some summary stats about items
+                            returned (such as number of events, searching by age range, etc.)</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <h3>Summary</h3>
+            <p>Overall, given the various pivots and *mini panic* moments I've had over the past week, I'm feeling okay
+                about the project. I have been pretty frustrated that I've spend what seems like 95% of my time so far
+                on
+                just getting data and feeling like there still are so many pieces of the project to put together (such
+                as user input, roles, OAuth). However, I anticipate that this should progress at a good pace if I can
+                get over the hurdle of
+                getting the data into the format I can work with and am excited to see where this project goes.
+            </p>
+        </div>
+    </div>
+
+    <!-- footer with contact, attributions, license -->
+    <footer>
+        <hr />
+        <p>Please contact <a href="mailto:eleane.ye@duke.edu">eleane.ye@duke.edu</a> if you have any questions or
+            comments.</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img id="img-footer"
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />Images on
+        this site that are created by Eleane Ye are licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons
+            License</a>.
+    </footer>
+</body>
+
+</html>

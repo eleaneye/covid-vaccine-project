@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Eleane Ye">
+    <title>CompSci 290, Spring 2021 : Eleane Ye, Final Project Homepage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <!-- CSS styling -->
+    <link href="style.css" rel="stylesheet">
+    <link href="../style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- main body and content wrapped in container for padding -->
+    <div class="container">
+        <!-- header and project deliverable links -->
+        <header>
+            <h2>Final Project</h2>
+            <ul class="nav-links">
+                <!-- <li><a href="reports/plan.html">Plan</a></li> -->
+                <!-- <li><a href="reports/plan.html">Plan</a></li> -->
+            </ul>
+        </header>
+        <!-- obvious link to the actual site -->
+        <h4>
+            <a href="reports/report_final.html">Final Demo</a><br />
+            <a href="vaccine_ui/dist/index.html">Published front-end site</a><br />
+            <a href="https://cryptic-savannah-96041.herokuapp.com/">Back-end server deployed on Heroku</a>
+        </h4>
+        <div>
+            <h4>Project Idea</h4>
+            <p>This final project attempts to make vaccine adverse reaction data more accessible to the public, by
+                getting data from the CDC WONDER VAERS (Vaccine Adverse Event Reporting System) database. It also
+                attempts to
+                contextualize and make more sense of all the data returned by giving summary statistics and allowing for
+                filtering of results. Finally, allowing for easy user submission of data could help provide others with
+                more information and insights about what others have experienced.</p>
+            <h4>Description</h4>
+            <p>Data is first fetched from the CDC WONDER API, by sending a customized XML request. An XML response is
+                returned and cleaned into a useable JSON format. This data is uploaded to firebase, as data is only
+                refreshed weekly and there is no need to fetch constantly. This CDC data is made available on the
+                front-end upon loading and filtering is processed on the front-end. Users are also able to login using
+                Google OAuth and then submit their own adverse events/symptoms which are stored remotely in a Google
+                Firebase real-time database. This user event data is also displayed in a tab called 'Crowdsourced Data'.
+                The 'My Profile' tab allows users to see their submissions, and if admin, delete submissions and view
+                all users who have accessed the app.
+            </p>
+            <h4>Attributions</h4>
+            <p>All external data is provided by
+                <a href="https://wonder.cdc.gov/vaers.html">CDC WONDER</a>. Styling and components based off of <a
+                    href="https://bootstrap-vue.org/">Bootstrap Vue</a>.
+            </p>
+        </div>
+        <!-- links -->
+        <div>
+            <h4>Links & Artifacts</h4>
+            <ol>
+                <li><a href="reports/report_final.html">Final Demo</a></li>
+                <li><a href="vaccine_ui/dist/index.html">Front-end</a></li>
+                <li><a href="https://cryptic-savannah-96041.herokuapp.com/">Back-end</a></li>
+                <li><a href="./README.md">README.md</a></li>
+                <li><a href="reports/report_two.html">Progress Report 2</a></li>
+                <li><a href="reports/report_one.html">Progress Report 1</a></li>
+                <li><a href="reports/plan.html">Plan</a></li>
+            </ol>
+        </div>
+    </div>
+
+    <!-- footer with contact, attributions, license -->
+    <footer>
+        <hr />
+        <p>Please contact <a href="mailto:eleane.ye@duke.edu">eleane.ye@duke.edu</a> if you have any questions or
+            comments.</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img id="img-footer"
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />Images on
+        this site that are created by Eleane Ye are licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons
+            License</a>.
+    </footer>
+</body>
+
+</html>

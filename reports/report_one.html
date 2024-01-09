@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Eleane Ye">
+    <title>CompSci 290, Spring 2021 : Final Project, Report 1</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <!-- CSS styling -->
+    <link href="../../style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- main body and content wrapped in container for padding -->
+    <div class="container">
+        <h2>Progress Report 1</h2>
+        <p>Created: 04/06/21</p>
+        <p>Last revised: 04/11/21</p>
+        <hr />
+        <div>
+            <h3>Demo</h3>
+            <video controls>
+                <source src="https://ik.imagekit.io/gem67khpb/cs290/demo1_un7mzei5oa.mp4" type="video/mp4">
+            </video>
+            <p>(Link to video file also available on Box <a
+                    href="https://duke.box.com/s/tbhi8nxl50w9apbzhgn9aep18bs2l0cu">here</a>.)</p>
+            <p>Currently, JSON data with all vaccine provider locations in NC is returned from a server that is publicly
+                deployed on heroku. I expect the data to show vaccine location, provider, contact info (eg. phone
+                number). On the front-end, I am having issues with cors so am unable to show a video demo, but I am
+                working on displaying info for each location. However, I have realized that I need to clean up the data
+                returned a bit more (eg. excluding unnecessary fields, perhaps combining with other availability data if
+                I can get it).</p>
+        </div>
+        <div>
+            <h3>Data</h3>
+            <p>Please visit the server deployed <a href="https://cryptic-savannah-96041.herokuapp.com/">here</a> on
+                Heroku to see data source.
+            </p>
+            <p>The structure will be an array of objects with each object representing one location. Each object will
+                have fields such as name, zipcode, address, contact info, and potentially availability or which vaccine
+                they have. On the front end the user will be able to input a zipcode and filter results.
+            </p>
+        </div>
+        <div>
+            <h3>Progress</h3>
+            <p>Since receiving feedback on my proposal, I have focused primarily on figuring out if (and how) I can
+                obtain the data needed, and what structure it can be stored in. I first made a list of the major
+                pharamacies
+                offering vaccines in NC which included Walgreens, CVS, Harris Teeter, Walmart, etc., and went through
+                the request an appointment process for each of them. I used the Chrome Developer Network tab to inspect
+                what network calls were being made to see what endpoints the sites were calling to return availability
+                data. However, I ran into issues as many required extensive surveys or logins, and I was not sure what
+                info was required to even make those calls (eg. there were cookies, keys required). After
+                meeting with Professor Duvall, and expressing concerns about the feasibility of obtaining the vaccine
+                availability data I wanted, he suggested I try web scraping from the myspot.nc.gov site that listed
+                locations and suggested looking into CheerioJS and Puppeteer. After that, I have been learning how to
+                use CheerioJS and practicing the syntax/implementation by scraping other static sites such as wikipedia.
+                I have also been trying to plan out where to store the returned data (since I am unfamiliar with how to
+                format and store scraped
+                data instead of an API call).
+            </p>
+
+        </div>
+        <div>
+            <h3>Concerns</h3>
+            <p>I have taken some time to learn CheerioJS and am now able to scrape data from a static html and save the
+                info as a JSON file. However I was not able to scrape from the myspot.gov site as the content needed is
+                not generated until after the user has entered zipcode or filter
+                criteria such as type of vaccine. Trying a different approach, I was able to figure out the api the site
+                used to get vaccine locations by inspecting the network calls using the developer tools, and have used
+                that instead, although it is a complete, unfiltered list. I am also a bit confused where to store the
+                returned JSON data, and if
+                I should be serving up the data as an API endpoint, or storing it somewhere (such as in Firebase).
+                I feel like I don't know enough about how all this works to debug or pinpoint where my roadblock is, and
+                am just generally worried that I
+                won't have any data to work with, or that by the time I figure out how to get "some" data, I won't have
+                time to work on the front-end and other parts. Lastly I am also concerned about setting up OAuth and
+                user roles, and how I can have users with accounts save/update/modify data.</p>
+        </div>
+        <div>
+            <h3>Learning</h3>
+            <p>I learned how to web scrape with node and cheerio! I have also realized how useful the developer tools
+                are in allowing you to inspect html elements and select the one you want to return. Learning how to use
+                the network tab has also been extremely useful in order to see the request/response and any calls made.
+                Along with this, I also
+                learned how to use fs.WriteFileSync to save output to a file.</p>
+        </div>
+        <div>
+            <h3>Plan</h3>
+            <p> My goals and priorities are still to access and save the data I need (locations or availability), and
+                also look into CVS's API (I signed up for an account to access but they have not given me access
+                yet...). I would ideally, by the next progress demo have a fully functional back-end that is serving the
+                data I want my front-end to work with. I will plan to meet with TA's/Professors to discuss the concerns
+                mentioned above.
+            </p>
+        </div>
+        <div>
+            <h3>Summary</h3>
+            <p>So far, I think that I have been making good progress regarding data exploration and thinking about data
+                structure. I have researched and tried a few different packages and tools
+                that may help me obtain the data needed, such as CheerioJS, PhantomJS, and Puppeteer. I am (cautiously)
+                optimistic that I will be able to get some form of data about vaccine locations, however have been
+                running into issues web scraping because unlike a static page, sites with locations/availability all
+                require interaction (eg. user input zip code or filters) before returning data. A realistic reassessment
+                of my project's overall feasibility makes me think that I will not be able to get availability for
+                multiple locations but at the very least I can focus on one pharmacy (eg. CVS) or trying to return the
+                locations on the myspot.nc.gov site.</p>
+        </div>
+
+    </div>
+
+    <!-- footer with contact, attributions, license -->
+    <footer>
+        <hr />
+        <p>Please contact <a href="mailto:eleane.ye@duke.edu">eleane.ye@duke.edu</a> if you have any questions or
+            comments.</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img id="img-footer"
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />Images on
+        this site that are created by Eleane Ye are licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons
+            License</a>.
+    </footer>
+</body>
+
+</html>

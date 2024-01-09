@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="author" content="Eleane Ye">
+    <title>CompSci 290, Spring 2021 : Final Project, Plan</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="Cache-Control" content="no-cache" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <!-- CSS styling -->
+    <link href="../../style.css" rel="stylesheet">
+</head>
+
+<body>
+    <!-- main body and content wrapped in container for padding -->
+    <div class="container">
+        <h2>Plan</h2>
+        <p>Created: 03/23/21</p>
+        <p>Last revised: ---</p>
+        <hr />
+        <div>
+            <h3>Idea</h3>
+            <p>For my final project, I would like to make a web app that will crowd source and compile Covid-19 vaccine
+                availability in NC and update data from the <a href="https://www.ncdhhs.gov/">North Carolina Department
+                    of Health and Human Service (NCDHHS)'s</a> database of vaccine locations (on the <a
+                    href="https://myspot.nc.gov/">NCDHHS MySpot.NC.gov</a> website). Though the NC.gov site provides
+                functionality to
+                search for where to get the vaccine but it does not show any data about vaccine availability at each
+                location. Pharmacies and other clinics may update their availability frequently and as the demand for
+                vaccines is so high right now, it is crucial to have up to date information. In hearing about some
+                friends/family's difficulty in finding accurate and up to date vaccine
+                availability back home in a different state, I hope that this website that aggregates vaccines
+                appointments across the state and
+                provides that info to users can help people save time and reduce barriers to getting vaccinated!
+            </p>
+        </div>
+        <div>
+            <h3>Scope</h3>
+            <p>My goal is for the site to display up to date information about vaccine availability in NC. This will
+                require features such as:</p>
+            <ul>
+                <li>Locations and the number of available appointments</li>
+                <li>A map and ability to search, filter (by distance, city, county, etc.)</li>
+                <li>Interacivity in a map that can zoom in/out, search features, and expanding on location to see more
+                    details (such as a link to book).</li>
+            </ul>
+            <p>I will consider using the Vue framework and some basic componnts. I will also need some sort of map API
+                and will look into Google Maps or the Leaflet API.</p>
+        </div>
+        <div>
+            <h3>Data Sources</h3>
+            <p>Data may be hard to obtain as currently there are no open source/available
+                complete datasets of vaccine distributors or availability (at least none that I know of). Currently, I
+                am thinking of web scraping or at least compiling a list of providers from the <a
+                    href="https://myspot.nc.gov/">Myspot.nc.gov</a> site into a JSON file and then going into each
+                individual provider site to further scrape and update data.</p>
+        </div>
+        <div>
+            <h3>Data Structures</h3>
+            <p>More unsure about this part. Plan to consult during office hours...(and would love to know how feasible
+                this
+                project is). Initial thoughts are 1) A JSON file with some providers, their information and
+                location, and a ID. Then individual data objects for each with the vaccine info.</p>
+        </div>
+        <div>
+            <h3>Wireframe</h3>
+            <p>ROUGH draft on Figma <a
+                    href="https://www.figma.com/file/bn0dq6jlyECIV221UPMYm4/CS290-Final-Project?node-id=0%3A1">here.</a>
+            </p>
+            <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450"
+                src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fbn0dq6jlyECIV221UPMYm4%2FCS290-Final-Project%3Fnode-id%3D0%253A1"
+                allowfullscreen></iframe>
+            <p>Design will probabilty heavily drawn on existing sites for different states such as:</p>
+            <figure>
+                <img src="https://ik.imagekit.io/gem67khpb/cs290/Screen_Shot_2021-03-23_at_10.10.02_PM_sML7xx9il.png"
+                    alt="List of vaccine locations and availability" />
+                <figcaption>Image from <a
+                        href="https://ik.imagekit.io/gem67khpb/cs290/Screen_Shot_2021-03-23_at_10.10.02_PM_sML7xx9il.png">WA
+                        Covid Vaccine Finder</a>
+                </figcaption>
+            </figure>
+            <figure>
+                <img src="https://ik.imagekit.io/gem67khpb/cs290/Screen_Shot_2021-03-23_at_10.27.33_PM_LGF_FdV7s.png"
+                    alt="Vaccine locations and maps showing locations" />
+                <figcaption>Image from <a href="https://myspot.nc.gov/">NCDHHS MySpot.NC.gov</a> site.</figcaption>
+            </figure>
+        </div>
+        <div>
+            <h3>Schedule</h3>
+            <ul>
+                <li>By Progress Demo 1 (4/8):
+                    <ul>
+                        <li>Make sure project scope and data gathering is feasible</li>
+                        <li>Write code that compiles list of locations from NC.gov site</li>
+                    </ul>
+                </li>
+                <li>By Progress Demo 2 (4/15):
+                    <ul>
+                        <li>Write code to scrape data from providers (eg. Walgreens)</li>
+                        <li>Component to display the response information</li>
+                        <li>Start to work on search and filter capabilities</li>
+                    </ul>
+                </li>
+                <li>By Progress Demo 3 (4/22):
+                    <ul>
+                        <li>Continue working on adding providers and displaying information</li>
+                        <li>If time, work on adding map</li>
+                    </ul>
+                </li>
+                <li>Final Demo
+                    <ul>
+                        <li>Documentation/instructions on how to use</li>
+                        <li>Cleaning code for production and deploying</li>
+                        <li>Adding information on site and minor UI/UX improvements</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+    <!-- footer with contact, attributions, license -->
+    <footer>
+        <hr />
+        <p>Please contact <a href="mailto:eleane.ye@duke.edu">eleane.ye@duke.edu</a> if you have any questions or
+            comments.</p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/1.0/"><img id="img-footer"
+                alt="Creative Commons License" style="border-width:0"
+                src="https://i.creativecommons.org/l/by-nc-sa/1.0/88x31.png" /></a><br />Images on
+        this site that are created by Eleane Ye are licensed under a <a rel="license"
+            href="http://creativecommons.org/licenses/by-nc-sa/1.0/">Creative Commons
+            License</a>.
+    </footer>
+</body>
+
+</html>
